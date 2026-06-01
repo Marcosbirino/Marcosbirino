@@ -20,8 +20,6 @@ Redes sociais:
 <a href="https://www.facebook.com/marcos.denilson.2025/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="face-logo"/></a>
 <a href="https://www.instagram.com/marcos_birino/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-logo"/></a>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Marcosbirino)](https://github.com/anuraghazra/github-readme-stats)
-[![Marcos stats](https://github-readme-stats-fast.vercel.app/api?username=Marcosbirino)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Marcos Streak](https://herokuapp.com)](https://github.com/DenverCoder1/github-readme-streak-stats)
