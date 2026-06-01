@@ -24,3 +24,6 @@ Redes sociais:
 [![Marcos stats](https://github-readme-stats-fast.vercel.app/api?username=Marcosbirino)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Marcos Streak](https://herokuapp.com)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
